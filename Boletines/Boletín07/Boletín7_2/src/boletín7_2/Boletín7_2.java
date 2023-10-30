@@ -10,7 +10,7 @@ public static void main(String[] args) {
     short Num1M;
     short Num2M;
     
-// Creamos el objeto
+// Creación el objeto
     Condicionales ObjCond = new Condicionales();
     
 // Código para pedir los datos
