@@ -71,7 +71,5 @@
 - Programa para un banco que te permite insertar y retirar dinero, ademas de crear cuentas
 
 ## Boletín18
--
-
-## Boletín Repaso Repetitivas
--
+- 18_1: Programa que calcula el precio a pagar por realizar una llamada
+- 18_2: Programa que calcula el precio de enviar un paquete
