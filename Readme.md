@@ -1,5 +1,8 @@
 # Boltines de programación
 
+## Boletín01
+- Boletín teórico general
+
 ## Boletín02
 - 2_1: Programa de cálculo del área de un triángulo
 - 2_2: Programa de cálculo del área de un cuadrado
@@ -31,3 +34,44 @@
 - 7_3: Programa que diga si un número es positivo o negativo mediante el condicional If
 - 7_4: Programa que diga quien pesa más de tres personas además de la diferencia de peso entre ellas
 - 7_4: Programa que te dice cual de tres números diferentes es el mayor
+
+## Boletín08 
+- 8_1: Programa que te dice cuanto consumo tiene tu producto
+- 8_2: Programa que te da el area de un cuadrado, triángulo y círculo
+
+## Boletín09
+- 9_1: Programa que te dice la cantidad de números positivos, negativos y ceros que hay en 10 números enteros
+- 9_2: Programa que te calcula la suma de los números comprendidos entre 10 y 90
+- 9_3: Programa que te calcule el area de un rectángulo
+- 9_4: Programa que calcule la tabla de multiplicar de cualquier número
+- 9_5: Programa que te dice cuantos trabajadores cobran menos y más de 1000 y el porcentaje del primero
+
+## Boletín10
+- Boletín teorico de estructuras
+
+## Boletín11
+- 9_1 y 9_2: Juego que te permita jugar contra otro jugador o contra tu ordenador a adivinar un número
+
+## Boletín12
+- Programa para un garaje que te permita meter y sacar coches, además de crear una factura para estos mismos
+
+## Boletín13
+- Boletín teorico de repetitivas
+
+## Boletín14
+- Programa con dos paquetes que te dice las características de un ordenador
+
+## Boletín15
+- Boletín Teórico sobre diagramas de clases
+
+## Boletín16
+- Programa para una biblioteca que te permite sacar y devolver revistas y libros
+
+## Boletín17
+- Programa para un banco que te permite insertar y retirar dinero, ademas de crear cuentas
+
+## Boletín18
+-
+
+## Boletín Repaso Repetitivas
+-
