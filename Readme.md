@@ -50,7 +50,7 @@
 - Boletín teorico de estructuras
 
 ## Boletín11
-- 9_1 y 9_2: Juego que te permita jugar contra otro jugador o contra tu ordenador a adivinar un número
+- 11_1 y 11_2: Juego que te permita jugar contra otro jugador o contra tu ordenador a adivinar un número
 
 ## Boletín12
 - Programa para un garaje que te permita meter y sacar coches, además de crear una factura para estos mismos
